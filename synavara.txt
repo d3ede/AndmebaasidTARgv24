@@ -10,3 +10,10 @@ Piirangud / Ограничения:
 * NOT NULL - Не даёт создать пустую строчку
 * UNIQUE - Не даёт создать одинаковое значение в таблицу
 * CHECK - Выбор значений
+
+SQL - Structure Query Language
+* DDL - Data Definition Language - CREATE TABLE, ALTER TABLE, DROP TABLE
+* DML - Data Manipulation Language - INSERT INTO, UPDATE, DELETE
+
+SQL Server Managment Studio
+XAMPP / phpMyAdmin
