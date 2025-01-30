@@ -1,1 +1,5 @@
-
+Andmetüüp:
+1. Sümbol/Text (Varchar(25), CHAR(5), TEXT)
+2. Arv (INT, SMALLINT, Decimal(5, 2))
+3. Loogika (bit, bool, boolean, true/false)
+4. Kuupäeva (date/time, date, time)
